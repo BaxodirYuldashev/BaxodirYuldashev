@@ -5,3 +5,7 @@ I'm iOS Developer from Uzbekistan. My only intention is to create programs that 
 ### Languages and tools I work with:
 <br />
 <code><img src="https://developer.apple.com/swift/images/swift-og.png" width="30px"></code>
+<br />
+- 📍 &nbsp; Current location: Tashkent, Uzbekistan
+- 📞 &nbsp; +998909615251
+- 📨 &nbsp; How to reach me: [@baxodiryuldashev_asl_group](https://www.instagram.com/baxodiryuldashev_asl_group/)
