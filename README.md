@@ -6,6 +6,6 @@ I'm iOS Developer from Uzbekistan. My only intention is to create programs that 
 <br />
 <code><img src="https://developer.apple.com/swift/images/swift-og.png" width="30px"></code>
 <br />
-- 📍 &nbsp; Current location: Tashkent, Uzbekistan
-- 📞 &nbsp; +998909615251
-- 📨 &nbsp; How to reach me: [@baxodiryuldashev_asl_group](https://www.instagram.com/baxodiryuldashev_asl_group/)
+- 📍 &nbsp; Current location: Tashkent, Uzbekistan <br />
+- 📞 &nbsp; +998909615251 <br />
+- 📨 &nbsp; How to reach me: [@baxodiryuldashev_asl_group](https://www.instagram.com/baxodiryuldashev_asl_group/) <br />
