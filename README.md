@@ -8,4 +8,4 @@ I'm iOS Developer from Uzbekistan. My only intention is to create programs that 
 <br />
 - 📍 &nbsp; Current location: Tashkent, Uzbekistan <br />
 - 📞 &nbsp; +998909615251 <br />
-- 📨 &nbsp; How to reach me: [@BaxodirYuldashev](https://www.instagram.com/baxodiryuldashev_asl_group/) <br />
+- 📨 &nbsp; How to reach me: [@baxodiryuldashev](https://www.instagram.com/baxodiryuldashev_asl_group/) <br />
