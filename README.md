@@ -6,4 +6,4 @@ I'm iOS Developer from Uzbekistan. My only intention is to create programs that 
 
 ### Languages and tools I work with:
 
-<code><img src="http://assets.stickpng.com/images/58482ce4cef1014c0b5e4a4c.png" width="30"></code>
+<code><img src="http://assets.stickpng.com/images/58482ce4cef1014c0b5e4a4c.png" width="30px"></code>
